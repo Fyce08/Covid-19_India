@@ -5,7 +5,7 @@
 
 **Data Source:** Covid-19 data across Indian states, including case counts, vaccination records, and demographic information.
 
-**Key Performance Indicators (KPIs):** Total deaths, cases (confirmed, cured, deaths), age group distribution, gender distribution, testing facilities, vaccine doses administered (first and second doses), and state-specific testing details.
+**Key Performance Indicators (KPIs):** Total deaths, Cases (confirmed, cured, deaths), Age group distribution, Gender distribution, Testing facilities, Vaccine doses administered (first and second doses), and State-specific testing details.
 
 ## Detailed Analysis
 **Total Deaths by State.**
