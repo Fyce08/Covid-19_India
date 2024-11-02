@@ -1,7 +1,7 @@
 # Covid-19 in India Analysis
 ## Summary
 
-**Project Objective:** Analysing Covid-19 impacts in India across various dimensions including state-wise cases, deaths, testing, vaccinations, and demographic distribution. The objective is to gain insights into pandemic spread and response effectiveness. Kindly view visualisation [HERE](https://public.tableau.com/app/profile/faizal.ajenifuja/viz/Covid_19_India_/Dashboard)
+**Project Objective:** Analysing Covid-19 impacts in India across various dimensions including state-wise cases, deaths, testing, vaccinations, and demographic distribution. The objective is to gain insights into pandemic spread and response effectiveness. Kindly view the visualisation [HERE](https://public.tableau.com/app/profile/faizal.ajenifuja/viz/Covid_19_India_/Dashboard)
 
 **Data Source:** Covid-19 data across Indian states, including case counts, vaccination records, and demographic information.
 
